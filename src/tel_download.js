@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Telegram Media Downloader
-// @version      0.2
-// @namespace    https://github.com/Neet-Nestor/Telegram-Media-Downloader
+// @version      0.1
+// @namespace    https://github.com/vithalreddy/Telegram-Media-Downloader
 // @description  Used to download streaming videos on Telegram
-// @author       Nestor Qin
+// @author       Vithal Reddy
 // @license      GNU GPLv3
-// @website      https://github.com/Neet-Nestor/Telegram-Media-Downloader
+// @website      https://github.com/vithalreddy/Telegram-Media-Downloader
 // @match        https://web.telegram.org/*
-// @match        https://webk.telegram.org/
-// @match        https://webz.telegram.org/
+// @match        https://webk.telegram.org/*
+// @match        https://webz.telegram.org/*
 // @icon         https://img.icons8.com/color/452/telegram-app--v5.png
 // @grant        none
 // ==/UserScript==
